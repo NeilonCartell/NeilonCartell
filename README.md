@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm passionate about data, cloud engineering, and AI. Welcome to my GitHub profile!
+I'm passionate about data, cloud engineering, AI and Front-End Dev. Welcome to my GitHub profile!
 
 ## About Me
 
